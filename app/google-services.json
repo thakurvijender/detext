@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240245804263",
+    "firebase_url": "https://detext-ed4e4.firebaseio.com",
+    "project_id": "detext-ed4e4",
+    "storage_bucket": "detext-ed4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240245804263:android:4659cc92fb65ee3b3f6642",
+        "android_client_info": {
+          "package_name": "viz.oragami.detext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240245804263-rst9sbqpj5nn4a3ea185s5s45ere6knh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viz.oragami.detext",
+            "certificate_hash": "44b8677d871e47127e5eab6d2406acff32346fc3"
+          }
+        },
+        {
+          "client_id": "240245804263-3buhjd1rp8vehv0c0it4011vnejfqtk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxbwi9v5L_nQzzR0P3ad73BzPGm-zYF2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240245804263-3buhjd1rp8vehv0c0it4011vnejfqtk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
